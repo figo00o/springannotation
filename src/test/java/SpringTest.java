@@ -39,7 +39,9 @@ public class SpringTest {
 
     @Test
     public void testOfIO() {
-
+    /*
+     *this is a comment
+     */
         FileInputStream in = null;
         FileOutputStream out = null;
         try {
